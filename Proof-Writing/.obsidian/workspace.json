@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "f10e7c9aa9419fc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ad4279d9d667dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0adce94d46557537",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "textbook-math111 (1).pdf"
+              }
+            }
+          },
+          {
+            "id": "d7ab85b07abf2dd7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "ed8b727044a77b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1/Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "152dd1759e5b1050",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f402f1f681f29f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beaa2eed69d89ecf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e31b6b802c6bb830",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9dc7b4e5eb0390d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af5580b1c6ee05e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a555b6ff48b4b362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97e73d1bfe20756",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "textbook-math111 (1).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c526d7b49776a871",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "textbook-math111 (1).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddc6c21b58117371",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17aa98af54e1bd6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "textbook-math111 (1).pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "translate:Open translation view": false,
+      "todoist-completed-tasks-plugin:Fetch today's completed tasks": false
+    }
+  },
+  "active": "beaa2eed69d89ecf",
+  "lastOpenFiles": [
+    "textbook-math111 (1) (copy).pdf",
+    "Main.pdf",
+    "textbook-math111 (1).pdf",
+    "Chapter1/Problems.md",
+    "Chapter1/Theory.md",
+    "Chapter1"
+  ]
+}
